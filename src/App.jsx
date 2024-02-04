@@ -1,15 +1,18 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { ArticlesCont } from './components/ArticlesCont'
+import { Header } from './components/Header'
+import { Slider } from './components/Slider'
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-      <h1>Hola Geofriends</h1>
-    </>
+    <main className=" border-blue-500 border-t-[6px]">
+      <Header/>
+      <div>
+        <Slider/>
+      </div>
+      <div>
+        <ArticlesCont/>
+      </div>
+    </main>
   )
 }
 
