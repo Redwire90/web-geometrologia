@@ -1,6 +1,7 @@
 import { ArticlesCont } from './components/ArticlesCont'
 import { Header } from './components/Header'
 import { Slider } from './components/Slider'
+import { Programer } from './components/Programer'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div>
         <ArticlesCont/>
       </div>
+      <Programer/>
     </main>
   )
 }
