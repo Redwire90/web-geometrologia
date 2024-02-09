@@ -4,7 +4,7 @@ export const Article = ({ title, text, icon }) => {
       <div className="flex place-content-center">
         <div className=" text-blue-500 text-[60px] pb-4">{icon}</div>
       </div>
-      <h2 className="pb-4 font-bold text-center text-[24px] text-blue-500">{title}</h2>
+      <h2 className="pb-4 font-bold text-center text-[24px] text-black">{title}</h2>
       <p className="text-justify pb-16">{text}</p>
     </article>
   );

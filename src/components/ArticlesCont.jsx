@@ -10,7 +10,7 @@ export const ArticlesCont = () => {
       <Article
         icon={<FaCheck/>}
         title="Calidad"
-        text="GEOMETROLOGIA S.A.S., y todo el personal de la organización estamos comprometidos con la buena práctica profesional, la calidad, confiabilidad, confidencialidad, competencia, imparcialidad y coherencia de operación en la prestación de servicios de calibración de instrumentos topográficos para geomática adecuados a las necesidades metrológicas de nuestros clientes y en base a métodos establecidos por normas nacionales y/o internacionales o desarrollados por nuestro equipo técnico. Para lo anterior, nos comprometemos a mantener y mejorar continuamente la eficacia de un Sistema de Gestión de la Calidad, cuyo propósito es asegurar la calidad de los servicios ofrecidos y garantizar la competencia del Laboratorio y la generación de resultados técnicamente válidos; respaldados por nuestro firme compromiso de cumplir con los requisitos establecidos por la norma ISO/IEC 17025:2017."
+        text="GEOMETROLOGIA S.A.S., y todo el personal de la organización estamos comprometidos con la buena práctica profesional, la calidad, confiabilidad, confidencialidad, competencia, imparcialidad y coherencia de operación en la prestación de servicios de calibración de instrumentos topográficos para geomática adecuados a las necesidades metrológicas de nuestros clientes y en base a métodos establecidos por normas nacionales y/o internacionales o desarrollados por nuestro equipo técnico."
       />
       <Article
         icon={<FaLocationArrow/>}
